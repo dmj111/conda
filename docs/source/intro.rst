@@ -1,4 +1,3 @@
-
 ============
 Introduction
 ============
@@ -180,7 +179,7 @@ Here is an example:
 
     # environment locations. These locations are in *addition* to the system
     # location at $ROOT_DIR/envs.
-    #locations:
+    locations:
        - ~/envs
 
 
